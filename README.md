@@ -16,7 +16,26 @@
 
 ## 💫 About Me
 
-I'm a passionate frontend developer based in **Dubai, UAE** 🌍, with over a decade of experience crafting intuitive, high-performance user interfaces. I specialize in building cross-platform mobile applications and modern web experiences that users love.
+<div align="center">
+
+# 👋 Hi, I'm Alaa Ali
+
+### 🚀 Senior Frontend Developer | React Native Expert | Next.js Specialist
+
+*Building beautiful, performant mobile and web experiences for 10+ years*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaalnous)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa.alnous@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
+
+</div>
+
+---
+
+## 💫 About Me
+
+I'm a passionate frontend developer based in **Dubai, UAE** 🌍, with over a decade of experience crafting intuitive, high-performance user interfaces.  
+I specialize in building cross-platform mobile applications and modern web experiences that users love.
 
 ```typescript
 const alaa = {
@@ -24,8 +43,9 @@ const alaa = {
   code: ["JavaScript", "TypeScript", "Ruby"],
   currentFocus: "React Native Performance & Next.js App Router",
   challenge: "Building scalable, user-centric applications",
-  funFact: "I believe great UI is invisible – it just works ✨"
+  funFact: "I love exploring new countries 🌍 and playing music 🎻🥁 (violin & drums)"
 };
+
 ```
 
 ### 🎯 What I'm Up To
