@@ -1,18 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Alaa Ali
-
-### 🚀 Senior Frontend Developer | React Native Expert | Next.js Specialist
-
-*Building beautiful, performant mobile and web experiences for 10+ years*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaalnous)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa.alnous@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
----
 
 ## 💫 About Me
 
