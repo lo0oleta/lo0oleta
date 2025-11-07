@@ -102,6 +102,14 @@ const alaa = {
 
 </div>
 
+### 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/lo0oleta/lo0oleta/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
