@@ -25,8 +25,8 @@ I love crafting smooth mobile experiences and beautiful web apps that make peopl
 ---
 
 ### 📈 GitHub Stats
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lo0oleta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lo0oleta&layout=compact&theme=tokyonight)
 
 ---
 
