@@ -25,7 +25,7 @@ I specialize in building cross-platform mobile applications and modern web exper
 ```typescript
 const alaa = {
   location: "Dubai, UAE 🇦🇪",
-  code: [ "JavaScript","TypeScript","React","React Native","Next.js","Redux Toolkit", "Node.js","Python","HTML","CSS", "Tailwind CSS","Shadcn UI", "Swift (iOS)", "Ruby" , "Java", "Kotlin"]
+  code: [ "JavaScript","TypeScript","React","React Native","Next.js","Redux Toolkit", "Node.js","Python","HTML","CSS", "Tailwind CSS","Shadcn UI", "Swift (iOS)", "Ruby" , "Java", "Kotlin"],
   currentFocus: "React Native Performance & Next.js App Router",
   challenge: "Building scalable, user-centric applications",
   funFact: "I love exploring new countries 🌍 and playing music 🎻🥁 (violin & drums)"
