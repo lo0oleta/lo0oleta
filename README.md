@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Alaa Ali
+# 👋 Hi, I'm Alaa Ali  
 
 ### 🚀 Senior Frontend Developer | React Native Expert | Next.js Specialist
 
@@ -25,7 +25,7 @@ I specialize in building cross-platform mobile applications and modern web exper
 ```typescript
 const alaa = {
   location: "Dubai, UAE 🇦🇪",
-  code: ["JavaScript", "TypeScript", "Ruby"],
+  code: [ "JavaScript","TypeScript","React","React Native","Next.js","Redux Toolkit", "Node.js","Python","HTML","CSS", "Tailwind CSS","Shadcn UI", "Swift (iOS)", "Ruby" , "Java", "Kotlin"]
   currentFocus: "React Native Performance & Next.js App Router",
   challenge: "Building scalable, user-centric applications",
   funFact: "I love exploring new countries 🌍 and playing music 🎻🥁 (violin & drums)"
@@ -56,8 +56,37 @@ const alaa = {
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Package Managers
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
+![nvm](https://img.shields.io/badge/nvm-333333?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Version Control & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### AI & Development Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+### Design & Collaboration
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Methodologies
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
 
 </div>
 
@@ -111,7 +140,11 @@ const alaa = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/lo0oleta/lo0oleta/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lo0oleta/lo0oleta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lo0oleta/lo0oleta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lo0oleta/lo0oleta/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
