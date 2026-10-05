@@ -19,12 +19,12 @@
 
 ## 💫 About Me
 
-I'm a passionate frontend developer based in **Dubai, UAE** 🌍, with over a decade of experience crafting intuitive, high-performance user interfaces.  
+I'm a passionate frontend developer based in **Al Khobar , Saudi Arabia ** 🌍, with over a decade of experience crafting intuitive, high-performance user interfaces.  
 I specialize in building cross-platform mobile applications and modern web experiences that users love.
 
 ```typescript
 const alaa = {
-  location: "Dubai, UAE 🇦🇪",
+  location: "Al Khobar, Saudi Arabia ",
   code: [ "JavaScript","TypeScript","React","React Native","Next.js","Redux Toolkit", "Node.js","Python","HTML","CSS", "Tailwind CSS","Shadcn UI", "Swift (iOS)", "Ruby" , "Java", "Kotlin"],
   currentFocus: "React Native Performance & Next.js App Router",
   challenge: "Building scalable, user-centric applications",
